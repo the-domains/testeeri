@@ -1,0 +1,28 @@
+name: testeeri
+favicon: null
+layout_spectrum: 0.8801514455117285
+typography_spectrum: 0.8942156403791159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15962571231648326
+  lightness: 0.025654220953583717
+  saturation: 0.7474137526005507
+  rhythmicContrast: 0.3571008702274412
+purpose: []
