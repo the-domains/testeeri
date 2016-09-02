@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Blogi
+    url: 'https://testing.thegrid.io/blogi'
+    type: external
 favicon: null
 title: Fintrav
 description: Travellers Online
