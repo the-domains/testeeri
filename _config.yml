@@ -1,19 +1,4 @@
-name: testeeri
-favicon: null
-layout_spectrum: 0.7433
 typography_spectrum: 0.8942156403791159
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.025654220953583717
   saturation: 0.7474137526005507
   rhythmicContrast: 0.3571008702274412
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7433
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: testeeri
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Fintrav
 purpose: []
