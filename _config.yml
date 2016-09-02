@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Getting Started on The Grid
-    id: 18d1601b-db7c-4680-82c7-a2076b2fa299
-    type: content
 favicon: null
 title: Fintrav
 description: Travellers Online
