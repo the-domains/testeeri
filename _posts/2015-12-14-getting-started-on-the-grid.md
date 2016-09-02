@@ -1,14 +1,16 @@
 ---
 title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
+description: >-
+  Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few
+  quick tips to get you up and running. 
 author: []
-datePublished: '2015-12-14T08:21:45.203Z'
-dateModified: '2015-12-14T08:15:12.748Z'
+datePublished: '2016-08-31T06:50:49.244Z'
+dateModified: '2016-08-31T06:50:47.178Z'
 sourcePath: _posts/2015-12-14-getting-started-on-the-grid.md
-published: true
-inFeed: true
 hasPage: true
-inNav: false
+publisher: {}
+via: {}
+starred: false
 url: getting-started-on-the-grid/index.html
 _context: 'http://schema.org'
 _type: Article
